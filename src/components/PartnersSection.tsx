@@ -5,11 +5,11 @@ export function PartnersSection() {
   const platinumPartners = [
     {
       name: "Suhant University",
-      logo: "./src/public/su.png",
+      logo: "./su.png",
     },
     {
       name: "Sunstone",
-      logo: "./src/public/sunstone.png",
+      logo: "./sunstone.png",
     },
     {
       name: "SET",
